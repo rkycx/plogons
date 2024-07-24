@@ -1,0 +1,25 @@
+[
+	{
+		"Author": "rky",
+		"Name": "AYO tweaks",
+		"Description": "Mainly a fuck around plogon I wanted to create.. No warranty and by installing you've already agreed with the ToS. Gib gil",
+		"InternalName": "AYOTweaks",
+		"AssemblyVersion": "0.0.0.1",
+		"RepoUrl": "https://github.com/rkycx/AYO-tweaks",
+		"IconUrl": "https://raw.githubusercontent.com/rkycx/plogons/main/icons/ayo.png",
+		"ApplicableVersion": "any",
+		"Tags": [
+			"AYO",
+			"plogon",
+			"rky"
+		],
+		"DalamudApiLevel": 10,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"LastUpdated": 0,
+		"DownloadCount": 0,
+		"DownloadLinkInstall": "https://github.com/rkycx/AYO-tweaks/releases/download/v0.0.0.1/ayo-tweaks_0_0_0_1.zip",
+		"DownloadLinkTesting": "https://github.com/rkycx/AYO-tweaks/releases/download/v0.0.0.1/ayo-tweaks_0_0_0_1.zip",
+		"DownloadLinkUpdate": "https://github.com/rkycx/AYO-tweaks/releases/download/v0.0.0.1/ayo-tweaks_0_0_0_1.zip"
+	}
+]
